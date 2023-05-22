@@ -55,8 +55,7 @@ println!("Token count: {}", tokens.len());
 * [polars](https://github.com/pola-rs/polars) - a faster, pure Rust pandas alternative
 
 * [rllama](https://github.com/Noeda/rllama) - a pure Rust implemenation of LLaMa inference. Great for embedding into other apps or wrapping for a scripting language.
-
-
+* [whatlang](https://github.com/quickwit-oss/whichlang) - Rust library using a multiclass logistic regression model to detect languages
 
 * [OpenAI API](https://github.com/uiuifree/rust-openai-chatgpt-api)  - a strongly typed Rust client for the OpenAI API
 
