@@ -13,6 +13,7 @@ https://github.com/jondot/awesome-rust-llm
 
 * [llm](https://github.com/rustformers/llm) - a Rust library for running inference from a number of supported LLMs, loads [ggml](https://github.com/ggerganov/ggml) based models
 * [llm-chain](https://github.com/sobelio/llm-chain) - chaining LLMs in Rust
+* [smartgpt](https://github.com/Cormanz/smartgpt) - use LLMs with the ability to complete complex tasks using plugins
 * [diffusers](https://github.com/pykeio/diffusers) - Stable Diffusion using Rust, 45% faster than Pytorch
 * [postgresml](https://github.com/postgresml/postgresml) - an amazing Postgres extension to do model fetching, inference all with SQL as part of your Postgres instance
 
