@@ -23,6 +23,7 @@ https://github.com/jondot/awesome-rust-llm
 * [aichat](https://github.com/sigoden/aichat) - a pure Rust CLI implementing AI chat, with advanced features such as real-time streaming, text highlighting and more
   
 * [browser-agent](https://github.com/m1guelpf/browser-agent/) - a headless browser driven by GPT-4. Sends off a simplified page representation and receives & executes instructions from GPT using a custom message format
+* [tenere](https://github.com/pythops/tenere) - TUI interface for LLMs
 
 How it works? here's a prompt snippet:
 
@@ -32,6 +33,21 @@ You must respond with ONLY one of the following commands AND NOTHING ELSE:
     - TYPE X \"TEXT\" - type the specified text into the input with id X and press ENTER
     - ANSWER \"TEXT\" - Respond to the user with the specified text once you have completed the objective
 ```
+* [ajeto](https://github.com/bausano/ajeto) - LLM personal assistant
+* [shortgpt](https://github.com/rupeshs/shortgpt) - Ask shortgpt for instant and concise answers
+* [autorust](https://github.com/minskylab/auto-rust) - macros that generate AI driven rust code in compile time
+* [clerk](https://github.com/blankenshipz/clerk) - LLM based file organizer
+* [gptcommit](https://github.com/zurawiki/gptcommit) - prepare commit message with GPT
+
+
+## LLM Memory
+
+* [indexify](https://github.com/diptanu/indexify) - A retrieval and long term memory service for LLMs
+* [memex](https://github.com/spyglass-search/memex) - Super-simple, fully Rust powered "memory" (doc store + semantic search) for LLM projects, semantic search, etc.
+* [motorhead](https://github.com/getmetal/motorhead) -  a memory and information retrieval server for LLMs. 
+  * Uses Redis as vector store for long term memory, 
+  * Works with OpenAI API
+  * [js example](https://github.com/getmetal/motorhead/blob/main/examples/chat-js), [python example](https://github.com/getmetal/motorhead/blob/main/examples/chat-py)
 
 ## Core Libraries
 
@@ -65,9 +81,10 @@ println!("Token count: {}", tokens.len());
 
 ## Services
 
-* [motorhead](https://github.com/getmetal/motorhead) -  a memory and information retrieval server for LLMs. 
-  * Uses Redis as vector store for long term memory, 
-  * Works with OpenAI API
-  * [js example](https://github.com/getmetal/motorhead/blob/main/examples/chat-js), [python example](https://github.com/getmetal/motorhead/blob/main/examples/chat-py)
-
 * [dust](https://github.com/dust-tt/dust) - a full service for workflow running with composable blocks. Core is in Rust, various frontends in Typescript.
+
+
+## Vector Stores
+
+* [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Vector database plugin for Postgres, written in Rust, specifically designed for LLM. 20x faster than pgvector
+* [qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Database for the next generation of AI applications
