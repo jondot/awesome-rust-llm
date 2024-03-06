@@ -13,6 +13,7 @@ https://github.com/jondot/awesome-rust-llm
 
 * [llm](https://github.com/rustformers/llm) - a Rust library for running inference from a number of supported LLMs, loads [ggml](https://github.com/ggerganov/ggml) based models
 * [rust-bert](https://github.com/guillaume-be/rust-bert) - all in one pipelines for for transformer-based models (BERT, DistilBERT, GPT2,...). Good for local embedding, port of `transformers` (python)
+* [langchain-rust](https://github.com/Abraxas-365/langchain-rust) - ⚡ Building applications with LLMs through composability, with Rust! ⚡
 * [llm-chain](https://github.com/sobelio/llm-chain) - chaining LLMs in Rust
 * [smartgpt](https://github.com/Cormanz/smartgpt) ([how it works](https://twitter.com/jondot/status/1660576729549664261))- use LLMs with the ability to complete complex tasks using plugins
 * [diffusers](https://github.com/pykeio/diffusers) - Stable Diffusion using Rust, 45% faster than Pytorch
