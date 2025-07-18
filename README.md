@@ -75,6 +75,7 @@ println!("Token count: {}", tokens.len());
 * [whatlang](https://github.com/quickwit-oss/whichlang) - Rust library using a multiclass logistic regression model to detect languages
 
 * [OpenAI API](https://github.com/uiuifree/rust-openai-chatgpt-api)  - a strongly typed Rust client for the OpenAI API
+* [BAML](https://github.com/BoundaryML/baml) - A simple prompting language for building reliable AI workflows and agents. BAML's compiler is written in Rust!
 
 ## Tools
 
