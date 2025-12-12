@@ -21,6 +21,7 @@ https://github.com/jondot/awesome-rust-llm
 
 ## Projects
 
+* [adk-rust](https://github.com/zavora-ai/adk-rust) - Production-ready AI agent development kit for Rust. Model-agnostic (Gemini, OpenAI, Anthropic, DeepSeek), multiple agent types (LLM, Graph, Workflow, Realtime), MCP support, sessions, artifacts, and built-in telemetry.
 * [aichat](https://github.com/sigoden/aichat) - a pure Rust CLI implementing AI chat, with advanced features such as real-time streaming, text highlighting and more
   
 * [browser-agent](https://github.com/m1guelpf/browser-agent/) - a headless browser driven by GPT-4. Sends off a simplified page representation and receives & executes instructions from GPT using a custom message format
