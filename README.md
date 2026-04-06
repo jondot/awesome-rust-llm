@@ -49,6 +49,7 @@ You must respond with ONLY one of the following commands AND NOTHING ELSE:
   * Uses Redis as vector store for long term memory, 
   * Works with OpenAI API
   * [js example](https://github.com/getmetal/motorhead/blob/main/examples/chat-js), [python example](https://github.com/getmetal/motorhead/blob/main/examples/chat-py)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for multi-agent orchestration, model-agnostic and usable with any LLM runtime. MIT licensed.
 
 ## Core Libraries
 
