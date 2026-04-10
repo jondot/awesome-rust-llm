@@ -80,6 +80,7 @@ println!("Token count: {}", tokens.len());
 
 * [spider](https://github.com/spider-rs/spider) - crawler / spider written in Rust for when you need a whole-website dump. Unlike Scrapy, focuses on dumping data but the post-processing is done later.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=jondot_awesome-rust-llm) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ## Services
 
 * [dust](https://github.com/dust-tt/dust) - a full service for workflow running with composable blocks. Core is in Rust, various frontends in Typescript.
