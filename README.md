@@ -43,6 +43,7 @@ You must respond with ONLY one of the following commands AND NOTHING ELSE:
 
 ## LLM Memory
 
+* [dakera-mcp](https://github.com/dakera-ai/dakera-mcp) - Self-hosted MCP-native agent memory server written in Rust. Decay-weighted vector recall via RocksDB + HNSW, 83 MCP tools, 87.8% LoCoMo benchmark score. Deployed via Docker Compose with MinIO.
 * [indexify](https://github.com/diptanu/indexify) - A retrieval and long term memory service for LLMs
 * [memex](https://github.com/spyglass-search/memex) - Super-simple, fully Rust powered "memory" (doc store + semantic search) for LLM projects, semantic search, etc.
 * [motorhead](https://github.com/getmetal/motorhead) -  a memory and information retrieval server for LLMs. 
