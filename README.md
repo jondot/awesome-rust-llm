@@ -43,6 +43,7 @@ You must respond with ONLY one of the following commands AND NOTHING ELSE:
 
 ## LLM Memory
 
+* [Dakera](https://github.com/dakera-ai/dakera-deploy) - Self-hosted agent memory server with hybrid BM25 + HNSW vector retrieval, decay-weighted recall, multi-agent namespacing, and MCP integration. SDKs for Python, TypeScript, Go, and Rust.
 * [indexify](https://github.com/diptanu/indexify) - A retrieval and long term memory service for LLMs
 * [memex](https://github.com/spyglass-search/memex) - Super-simple, fully Rust powered "memory" (doc store + semantic search) for LLM projects, semantic search, etc.
 * [motorhead](https://github.com/getmetal/motorhead) -  a memory and information retrieval server for LLMs. 
