@@ -49,6 +49,7 @@ You must respond with ONLY one of the following commands AND NOTHING ELSE:
   * Uses Redis as vector store for long term memory, 
   * Works with OpenAI API
   * [js example](https://github.com/getmetal/motorhead/blob/main/examples/chat-js), [python example](https://github.com/getmetal/motorhead/blob/main/examples/chat-py)
+* [vestige](https://github.com/samvallad33/vestige) - local-first memory MCP server for AI coding agents, a Rust binary with SQLite storage, FSRS-6 retention, spreading activation and hybrid retrieval. Works with Claude Code, Cursor, VS Code and other MCP clients
 
 ## Core Libraries
 
