@@ -17,6 +17,7 @@ https://github.com/jondot/awesome-rust-llm
 * [smartgpt](https://github.com/Cormanz/smartgpt) ([how it works](https://twitter.com/jondot/status/1660576729549664261))- use LLMs with the ability to complete complex tasks using plugins
 * [diffusers](https://github.com/pykeio/diffusers) - Stable Diffusion using Rust, 45% faster than Pytorch
 * [postgresml](https://github.com/postgresml/postgresml) - an amazing Postgres extension to do model fetching, inference all with SQL as part of your Postgres instance
+* [kvcdn](https://github.com/kvcachestore/kvcdn) - open-source Rust CLI for the KV Cache Store: generate, verify, quantize, benchmark, and upload KV-cache artifacts to skip prefill in RAG and long-context inference.
 
 
 ## Projects
