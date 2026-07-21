@@ -11,6 +11,7 @@ https://github.com/jondot/awesome-rust-llm
 
 ## Models & Inference
 
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - GPL-3.0 autonomous penetration testing platform: per-technology agents, 80+ tools, proof-based findings, and a privacy gateway that keeps target data from the model.
 * [llm](https://github.com/rustformers/llm) - a Rust library for running inference from a number of supported LLMs, loads [ggml](https://github.com/ggerganov/ggml) based models
 * [rust-bert](https://github.com/guillaume-be/rust-bert) - all in one pipelines for for transformer-based models (BERT, DistilBERT, GPT2,...). Good for local embedding, port of `transformers` (python)
 * [llm-chain](https://github.com/sobelio/llm-chain) - chaining LLMs in Rust
