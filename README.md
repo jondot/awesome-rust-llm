@@ -79,6 +79,7 @@ println!("Token count: {}", tokens.len());
 ## Tools
 
 * [spider](https://github.com/spider-rs/spider) - crawler / spider written in Rust for when you need a whole-website dump. Unlike Scrapy, focuses on dumping data but the post-processing is done later.
+* [NEURAX](https://github.com/rustnew/NEURAX) - analytical compiler for neural architectures. Predicts LLM training cost, memory, and inference behavior (stability, hallucination risk) before deployment. <50ms, zero GPU.
 
 ## Services
 
