@@ -39,6 +39,7 @@ You must respond with ONLY one of the following commands AND NOTHING ELSE:
 * [autorust](https://github.com/minskylab/auto-rust) - macros that generate AI driven rust code in compile time
 * [clerk](https://github.com/blankenshipz/clerk) - LLM based file organizer
 * [gptcommit](https://github.com/zurawiki/gptcommit) - prepare commit message with GPT
+* [Kaeso](https://kaeso.app) ([repo](https://github.com/logicplanes/kaeso)) - an MIT-licensed, self-hosted AI gateway in Rust. Applications call one OpenAI- and Anthropic-compatible API; Kaeso checks the key, the model and the limits, then sends the request to the user's own model-provider accounts.
 
 
 ## LLM Memory
